@@ -1,0 +1,15 @@
+{
+  "repository": "module-music-effects-filament",
+  "capabilityKey": "liberusoftware/music-effects",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/music-effects-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/music/nextjs/effects.md",
+  "presentationPlan": "projects/music/filament/effects.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "music"
+  ]
+}
