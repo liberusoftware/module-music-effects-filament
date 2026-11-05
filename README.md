@@ -16,7 +16,7 @@ Laravel coordinates persisted metadata, policy and asynchronous work. Real-time 
 
 ## Related repositories
 
-- [Music application](https://github.com/liberusoftware/music-laravel)
+- [Music application](https://github.com/liberusoftware/music-daw-laravel)
 - [Product documentation](https://github.com/liberusoftware/documentation/blob/main/projects/music/README.md)
 - [Delivery plan](https://github.com/liberusoftware/documentation/blob/main/projects/music/DEVELOPMENT.md)
 
